@@ -1,11 +1,17 @@
-#Initialize the Project
+# Initialize the Project
 
-To create a new Vite project, run: npm create vite@latest
-Install the required dependencies: npm install
-Start Development Server: npm run dev
+### To create a new Vite project, run:
+npm create vite@latest
 
-#Components added: 
-Quiz.css, Quiz.jsx
+### Install the required dependencies:
+npm install
+### Start Development Server:
+npm run dev
 
-#Assests
-consists of data.js which will be question bank
+# Components added:
+Quiz.css <br/>
+Quiz.jsx
+
+
+# Assests
+Data.js which will be question bank
